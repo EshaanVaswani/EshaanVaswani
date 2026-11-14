@@ -1,33 +1,42 @@
-# Hi, I'm Eshaan 👋
+# Hey, I'm Eshaan 👋
 
-An engineering student with a passion for tech and entrepreneurship. I thrive on creativity and am always eager to tackle new challenges that drive innovation.<br>
-
-[Twitter](https://twitter.com/eshaanv2004)&nbsp;&nbsp;•&nbsp;&nbsp;[Mail](mailto:eshaanv2004@gmail.com)&nbsp;&nbsp;•&nbsp;&nbsp;[Instagram](http://instagram.com/eshaanvaswani)&nbsp;&nbsp;•&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/eshaan-vaswani-a34a0722a/)<br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=EshaanVaswani&label=Profile%20views&color=0e75b6&style=flat" alt="Eshaan" /> </p>
-
- - 🌐 Currently diving deep into the MERN stack.
- - 🤖 Passionate about diverse tech fields including AI/ML and ethical hacking.
- - 🌍 Eager to collaborate on innovative real-world projects that make a difference.
- - 💡 Always looking to connect and co-create with like-minded tech enthusiasts.
- - 🔍 Interested in harnessing technology to solve complex problems and improve lives.
-
-<br>
-
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=EshaanVaswani&show_icons=true&theme=tokyonight&line_height=27">
-  &nbsp;&nbsp;&nbsp;
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=EshaanVaswani&hide=html,css&theme=tokyonight&layout=compact">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=140&section=header&text=Eshaan%20Vaswani&fontSize=42&fontColor=ffffff&fontAlignY=55" width="100%" />
 </p>
 
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=EshaanVaswani&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
-</p> 
-<br>
+I'm someone who enjoys figuring out how things work, exploring new ideas, and occasionally going down rabbit holes I didn't plan to.
 
-If you're interested in chatting or collaborating, feel free to send me a DM on [Twitter](http://twitter.com/eshaanv2004) or [LinkedIn](https://www.linkedin.com/in/eshaan-vaswani-a34a0722a/)!
+I'm fascinated by the intersection of **technology, creativity, and entrepreneurship**. I enjoy building things, understanding the systems behind them, and exploring how seemingly small ideas can turn into something meaningful.
+
+I don't have everything figured out, and that's probably the fun part. There's always something new to learn, experiment with, or get curious about.
+
+### 🧭 Things that keep me curious
+
+- 💻 Software, systems, and the magic happening behind the screen.
+- 🤖 Artificial intelligence and the possibilities of building with it.
+- 🔐 Cybersecurity, networking, and understanding how things can break.
+- 🚀 Entrepreneurship, product ideas, and solving everyday problems.
+- 🌍 Different technologies, different perspectives, and the world beyond the screen.
+
+### 🔭 Currently exploring
+
+- Adobe Experience Manager (AEM) & Edge Delivery Services (EDS)
+- Java and deeper programming fundamentals
+- AI agents, LLMs, and practical AI applications
+- System design, Linux, networking, and DevOps
+- The endless rabbit hole of building better products.
+
+### 🌐 Find me around the internet
+
+<p align="left">
+  <a href="https://twitter.com/eshaanv2004"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:eshaanv2004@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/eshaanvaswani"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/eshaan-vaswani-a34a0722a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
 <p align="center">
-  <br>
-  <em>"Embrace the discomfort, thrive amidst challenges. 🌟"</em>
-  <br>
+  <i>"Stay curious. Explore endlessly. Make something meaningful."</i>
 </p>
