@@ -1,9 +1,5 @@
 # Hey, I'm Eshaan 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=140&section=header&text=Eshaan%20Vaswani&fontSize=42&fontColor=ffffff&fontAlignY=55" width="100%" />
-</p>
-
 I'm someone who enjoys figuring out how things work, exploring new ideas, and occasionally going down rabbit holes I didn't plan to.
 
 I'm fascinated by the intersection of **technology, creativity, and entrepreneurship**. I enjoy building things, understanding the systems behind them, and exploring how seemingly small ideas can turn into something meaningful.
